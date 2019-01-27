@@ -33,7 +33,7 @@ In addition to anti-spam plugins, WordPress has a number of built-in tools that 
 3.  It could hurt your SEO
 4.  All of the above
 
-**Answer:** 4\. Correct answer 
+**Answer:** 4. All of the above
 
 **How can you control spam on your site (choose as many as applicable)?**
 
@@ -42,4 +42,4 @@ In addition to anti-spam plugins, WordPress has a number of built-in tools that 
 3.  Make adjustments to the Settings>Disscussions panel
 4.  All of the above
 
-**Answer:**  1 & 3 Correct answers
+**Answer:**  1. Install an anti-spam plugin & 3. Make adjustments to the Settings>Disscussions panel
