@@ -87,6 +87,10 @@ NOTE - the Akisment Personal option is stricly not for commercial use. If you wi
 1. Install the Akisment Anti-Spam Plugin from the WordPress respository. Activate the plugin once installed. 
 2. Select Settings in order to access the below screen.
 
+[![Akisment API](IMAGES/Akisment API.png)](IMAGES/Akisment API.png)
+
+3. Copy your API key and then select CONNECT WITH API KEY
+
 ## Quiz
 
 **Why is spam bad for your site?**
