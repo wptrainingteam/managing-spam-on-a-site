@@ -72,7 +72,20 @@ In addition to anti-spam plugins, WordPress has a number of built-in tools that 
 
 **Managaing Span using the Akismet Anti-Spam Plugin**
 
-Akismet Anti-Spam is a popular WordPress plugin used on millions of websites. [More information to be entered here]
+Akismet Anti-Spam is a popular WordPress plugin used on millions of websites. [More information to be entered here]. In order to use the Akisment plugin, you will first need sign up for the Akisment service using a WordPress.com account which in turn will provide you with an API key. It would be advisable to do this before installing and settin up the plugin. 
+
+**Generate an API key••
+
+1. Visit the UR https://akismet.com/wordpress/. You will be presented with a number of different plans, however for the purposes of this tutorial we will just be using the Personal option which will provide the neccessary spam protection that we are after.
+
+NOTE - the Akisment Personal option is stricly not for commercial use. If you will be using the plugin on a site which is of any commercial nature, then you will need to purchase either the Plus or Commercial plan.
+
+2. Complete the steps as requested on the Akisment site.You will then be provided with a API key, this is a unique key associated to your account which will allow the Akisment plugin which we are about to install to successfuly connect to your account.
+
+**Installing and setting up the Akismnet plugin.
+
+1. Install the Akisment Anti-Spam Plugin from the WordPress respository. Activate the plugin once installed. 
+2. Select Settings in order to access the below screen.
 
 ## Quiz
 
