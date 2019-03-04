@@ -80,8 +80,13 @@ In addition to anti-spam plugins, WordPress has a number of built-in tools that 
 
 * Email me whenever anyone posts a comment - this setting will not necessarily stop any spam being posted to your site, however should this happen you will receive an email informing that you have received a comment. You would then be able to review this comment and should it be a spam comment you could delete it. This does however mean that if you have a particularly busy site receving many comments, you will also be receiving many emails!
 
-* Before 
+* Before a comment appears comment must be manually approved - this is very similar to the previous option in that you will receive an email each time a comment is made. In this case however the comment will not appear to other readers on the site untill you log in and approve this. 
 
+* Comment moderation - spam comments generally contain many links in this text. Therefore you can request WordPress to hold the comment in the moderation queue if a certain number are contained. The default is 2 however if you wish to be extra secure then you can change this down to one or even none. Any comments which are held for moderation will need to be checked and approved by you by logging into the WordPress Admin.
+
+* You can also request WordPress to hold a comment for moderation if it contains any offensive words, names, emails etc. This will however require you to list these out in the large text field. 
+
+* Comment Blacklist is very similar to the above setting however any comments found to contain these words will be immediately sent to the trash.
 
 [QUESTION: looking at comment spam tools as mentioned here: https://codex.wordpress.org/Combating_Comment_Spam. Some of this is touched on in the Settings Lesson Plan, but not all. Should detailed notes be included in this LP, or edited into the sessions LP.]
 
