@@ -66,11 +66,31 @@ If you have an email address, I'm sure you have received email spam. Spam, other
 
 In addition to anti-spam plugins, WordPress has a number of built-in tools that can help control comment spam.
 
-1.  In the WordPress Dashboard, go to Settings>Discussion.
+1.  In the WordPress Dashboard, go to Settings>Discussion. Within this page a number of different options can be turned on or off depending on your requirements.
+
+* Allow link notiifcations from other blogs (pingbacks and trackbacks) on new articles - Pingbacks and Trackbacks are basically a method to notify other relevant blogs of new content that their readers may also be interested in. Although this can lead to your site generating some additional traffic, it does also lead to the possiblity of a lot more spam. If you are not concernd about Pingbacks or Trackbacks then you will be quite safe unchecking this.
+
+* Allow people to post comments on new articles - unchecking this will remove the comments section from the bottom of any posts thereby in effect stopping any spam comments that could be posted. It does however of course mean that any geniune users are also unable to comment. 
+
+* Comment author must fill out name and email - this forces anyone trying to post a comment to also provide their name and email when checked. This may help especially in the case of spam bots. 
+
+* Users must be registered and logged in to comment - a particularly effective way to prevent spam comments is to only allow users who have registered to your site and provided a valid email address to post any comments. This may also however discourage any geniune users from commenting as they may not have the time or inclanation to sign up to your site just for the purposes of posted a quick messsage or comment.
+
+* Automatically close comments on articles older than ..... days - you may find that your blog posts only receive geniune comments in the first few weeks of being posted and anything after that is irrelevant. To prevent spam being posted after this timeframe you could specificy a number of days at which point the post is then closed off for any comments. The previously supplied comments will of course still be avialable to read by your site visitors.
+
+* Email me whenever anyone posts a comment - this setting will not necessarily stop any spam being posted to your site, however should this happen you will receive an email informing that you have received a comment. You would then be able to review this comment and should it be a spam comment you could delete it. This does however mean that if you have a particularly busy site receving many comments, you will also be receiving many emails!
+
+* Before a comment appears comment must be manually approved - this is very similar to the previous option in that you will receive an email each time a comment is made. In this case however the comment will not appear to other readers on the site untill you log in and approve this. 
+
+* Comment moderation - spam comments generally contain many links in this text. Therefore you can request WordPress to hold the comment in the moderation queue if a certain number are contained. The default is 2 however if you wish to be extra secure then you can change this down to one or even none. Any comments which are held for moderation will need to be checked and approved by you by logging into the WordPress Admin.
+
+* You can also request WordPress to hold a comment for moderation if it contains any offensive words, names, emails etc. This will however require you to list these out in the large text field. 
+
+* Comment Blacklist is very similar to the above setting however any comments found to contain these words will be immediately sent to the trash.
 
 [QUESTION: looking at comment spam tools as mentioned here: https://codex.wordpress.org/Combating_Comment_Spam. Some of this is touched on in the Settings Lesson Plan, but not all. Should detailed notes be included in this LP, or edited into the sessions LP.]
 
-**Managaing Span using the Akismet Anti-Spam Plugin**
+**Managaing Spam using the Akismet Anti-Spam Plugin**
 
 Akismet Anti-Spam is a popular WordPress plugin used on millions of websites. [More information to be entered here]. In order to use the Akisment plugin, you will first need sign up for the Akisment service using a WordPress.com account which in turn will provide you with an API key. It would be advisable to do this before installing and settin up the plugin. 
 
@@ -90,6 +110,9 @@ NOTE - the Akisment Personal option is stricly not for commercial use. If you wi
 [![Akisment API](IMAGES/Akisment API.png)](IMAGES/Akisment API.png)
 
 3. Copy your API key and then select CONNECT WITH API KEY
+4. Once connected you will then be presented with a small green header bar informing you that Akisment is now protecting your site from spam! You should not need to adjust any of the settings below this. 
+
+[![Akisment API](IMAGES/Akisment Installation Successful.png)](IMAGES/Akisment Installation Successful.png)
 
 ## Quiz
 
@@ -109,4 +132,11 @@ NOTE - the Akisment Personal option is stricly not for commercial use. If you wi
 3.  Make adjustments to the Settings>Disscussions panel
 4.  All of the above
 
-**Answer:**  1. Install an anti-spam plugin & 3. Make adjustments to the Settings>Disscussions panel
+**Answer:** 1. Install an anti-spam plugin & 3. Make adjustments to the Settings>Disscussions panel 
+
+**An Akismnet/Wordpress.com account is required to set up the Akisment plugin on your site**
+
+1.  True
+2.  False
+
+**Answer:** 1. True
