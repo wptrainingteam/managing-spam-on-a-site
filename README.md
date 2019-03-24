@@ -92,7 +92,7 @@ In addition to anti-spam plugins, WordPress has a number of built-in tools that 
 
 **Managaing Spam using the Akismet Anti-Spam Plugin**
 
-Akismet Anti-Spam is a popular WordPress plugin used on millions of websites. [More information to be entered here]. In order to use the Akisment plugin, you will first need sign up for the Akisment service using a WordPress.com account which in turn will provide you with an API key. It would be advisable to do this before installing and settin up the plugin. 
+Akismet Anti-Spam is a popular WordPress plugin used on millions of websites. In order to use the Akisment plugin, you will first need sign up for the Akisment service using a WordPress.com account which in turn will provide you with an API key. It would be advisable to do this before installing and settin up the plugin. 
 
 **Generate an API key••
 
