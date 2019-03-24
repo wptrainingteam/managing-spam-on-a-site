@@ -66,7 +66,7 @@ If you have an email address, I'm sure you have received email spam. Spam, other
 
 In addition to anti-spam plugins, WordPress has a number of built-in tools that can help control comment spam.
 
-1.  In the WordPress Dashboard, go to Settings>Discussion. Within this page a number of different options can be turned on or off depending on your requirements.
+1.  In the WordPress Dashboard, go to Settings > Discussion. Within this page a number of different options can be turned on or off depending on your requirements.
 
 * Allow link notiifcations from other blogs (pingbacks and trackbacks) on new articles - Pingbacks and Trackbacks are basically a method to notify other relevant blogs of new content that their readers may also be interested in. Although this can lead to your site generating some additional traffic, it does also lead to the possiblity of a lot more spam. If you are not concernd about Pingbacks or Trackbacks then you will be quite safe unchecking this.
 
@@ -129,10 +129,10 @@ NOTE - the Akisment Personal option is stricly not for commercial use. If you wi
 
 1.  Install an anti-spam plugin
 2.  Call your host and ask for the "no more spam" package
-3.  Make adjustments to the Settings>Disscussions panel
+3.  Make adjustments to the Settings > Discussion panel
 4.  All of the above
 
-**Answer:** 1. Install an anti-spam plugin & 3. Make adjustments to the Settings>Disscussions panel 
+**Answer:** 1. Install an anti-spam plugin & 3. Make adjustments to the Settings > Discussion panel 
 
 **An Akismnet/Wordpress.com account is required to set up the Akisment plugin on your site**
 
