@@ -4,13 +4,20 @@
 
 Learn why spam is a problem for all WordPress sites, why you should control it and learn tips to manage it.
 
-## Prerequisite Skills
-
-*   Understanding of installing and activating plug-ins on a self-hosted WordPress website.
-
 ## Objectives
 
-*   Objectives should be worded as actions that the student can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc.
+*   Students will understand the problems that spam comments may have on a site aswell acquire the skills in order to chnage site settings to control spam. 
+
+
+## Prerequisite Skills
+
+*   Understanding of the WordPress Admin panel and how to navigate the admin menus.
+*   Understanding of installing and activating plug-ins on a self-hosted WordPress website.
+
+## Readiness Questions
+
+* Do students have the skills to navigate through the admin panels and change basic settings?
+* Do students have the skills to install and activate a plugin? 
 
 ## Target Audience
 
@@ -51,14 +58,17 @@ How long will it take to teach this lesson (in minutes)?
 ## Prerequisite Skills 
 Partcipants will get the most from this lesson if they have familiarity with:
 
-* Proficiency in searching for and installing plugins
-* Proficiency in navigating through the WordPress Adminstration Panels
+* Proficiency in navigating through the WordPress Adminstration Panels.
+* Proficiency in searching for and installing plugins.
 
+## Materials Needed
 
+* Students will need access to either a local install of WordPress or a development site.
+* The instructor may also want access to a large screen display or projector to show to sample screenshots included in this lesson.
 
 ## Class Discussion
 
-If you have an email address, I'm sure you have received email spam. Spam, otherwise known as an unsolicited commercial message, or something you never asked for, trying to sell you something you don't need, happens in WordPress too. Comment Spam happens when a spammer posts comments to your website. **Why would they do this?** Most spam comments contain links to the spammer's website, Their goal, is to increase the number of back-links to their website by publishing them anywhere and everywhere they can. The hope is that the higher number of backlinks, the higher their Google Page Rank will be. In reality, Google views these types of links as low-quality backlinks and they do not help spammers, and instead will sometimes hurt Page Rank. **Why does spam hurt your site?** These spam posts can make your website look less credible, include information that you don't want your readers to see and sometimes even cause problems with your website's SEO. **Controlling**** Spam with a Plugin: **All WordPress sites should utilize some type of anti-spam plugin. There are many different free and paid plug-ins that offer spam protection for your website.  Some of these plugins include [Askimet](https://make.wordpress.org/training/handbook/plugin-lessons/what-is-akismet/), Spam Plugin Lesson 2 and Spam Plugin Lesson 3.
+If you have an email address, I'm sure you have received email spam. Spam, otherwise known as an unsolicited commercial message, or something you never asked for, trying to sell you something you don't need, happens in WordPress too. Comment Spam happens when a spammer posts comments to your website. **Why would they do this?** Most spam comments contain links to the spammer's website, Their goal, is to increase the number of back-links to their website by publishing them anywhere and everywhere they can. The hope is that the higher number of backlinks, the higher their Google Page Rank will be. In reality, Google views these types of links as low-quality backlinks and they do not help spammers, and instead will sometimes hurt Page Rank. **Why does spam hurt your site?** These spam posts can make your website look less credible, include information that you don't want your readers to see and sometimes even cause problems with your website's SEO. **Controlling**** Spam with a Plugin: **All WordPress sites should utilize some type of anti-spam plugin. There are many different free and paid plug-ins that offer spam protection for your website.  Some of these plugins include Akisment.  We briefly touch on installing Akisment in the lesson however if you would like more detailed information on this perhaps try out the following lesson plan. [Askimet](https://make.wordpress.org/training/handbook/plugin-lessons/what-is-akismet/.
 
 ## Exercises
 
