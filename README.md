@@ -2,12 +2,11 @@
 
 ## Description
 
-Learn why spam is a problem for all WordPress sites, why you should control it and learn tips to manage it.
+Learn why spam is a problem for all WordPress sites, why you should control it ans how and learn tips to manage it.
 
 ## Objectives
 
 *   Students will understand the problems that spam comments may have on a site aswell acquire the skills in order to chnage site settings to control spam. 
-
 
 ## Prerequisite Skills
 
@@ -74,7 +73,7 @@ If you have an email address, I'm sure you have received email spam. Spam, other
 
 **Managing Spam via the WordPress Admin Settings**
 
-In addition to anti-spam plugins, WordPress has a number of built-in tools that can help control comment spam.
+Although there a many anti-spam plugins available to control spam on a site, WordPress has a number of built-in tools that can help control comment spam. We will start by looking at these first.
 
 1.  In the WordPress Dashboard, go to Settings>Discussion. Within this page a number of different options can be turned on or off depending on your requirements.
 
@@ -97,8 +96,6 @@ In addition to anti-spam plugins, WordPress has a number of built-in tools that 
 * You can also request WordPress to hold a comment for moderation if it contains any offensive words, names, emails etc. This will however require you to list these out in the large text field. 
 
 * Comment Blacklist is very similar to the above setting however any comments found to contain these words will be immediately sent to the trash.
-
-[QUESTION: looking at comment spam tools as mentioned here: https://codex.wordpress.org/Combating_Comment_Spam. Some of this is touched on in the Settings Lesson Plan, but not all. Should detailed notes be included in this LP, or edited into the sessions LP.]
 
 **Managaing Spam using the Akismet Anti-Spam Plugin**
 
@@ -134,6 +131,20 @@ NOTE - the Akisment Personal option is stricly not for commercial use. If you wi
 4.  All of the above
 
 **Answer:** 4. All of the above
+
+**Does the WordPress Admin panel allow you to chnage comment moderation settings?**
+
+1.  Yes
+2.  No
+
+**Answer:** 1. Yes
+
+**WordPress allows you to close down the comments sections after a specified number of days.**
+
+1.  True
+2.  False
+
+**Answer:** 1. True
 
 **How can you control spam on your site (choose as many as applicable)?**
 
