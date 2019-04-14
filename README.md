@@ -67,7 +67,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Class Discussion
 
-If you have an email address, I'm sure you have received email spam. Spam, otherwise known as an unsolicited commercial message, or something you never asked for, trying to sell you something you don't need, happens in WordPress too. Comment Spam happens when a spammer posts comments to your website. **Why would they do this?** Most spam comments contain links to the spammer's website, Their goal, is to increase the number of back-links to their website by publishing them anywhere and everywhere they can. The hope is that the higher the number of backlinks, the higher their Google Page Rank will be. In reality, Google views these types of links as low-quality backlinks and they do not help spammers, and instead will sometimes hurt Page Rank. **Why does spam hurt your site?** These spam posts can make your website look less credible, include information that you don't want your readers to see and sometimes even cause problems with your website's SEO. **Controlling**** Spam with a Plugin: **All WordPress sites should utilize some type of anti-spam plugin. There are many different free and paid plug-ins that offer spam protection for your website.  Some of these plugins include Akismet.  We briefly touch on installing Akismet in the lesson however if you would like more detailed information on this perhaps try out the following lesson plan. [Askimet](https://make.wordpress.org/training/handbook/plugin-lessons/what-is-akismet/.
+If you have an email address, I'm sure you have received email spam. Spam, otherwise known as an unsolicited commercial message, or something you never asked for, trying to sell you something you don't need, happens in WordPress too. Comment Spam happens when a spammer posts comments to your website. **Why would they do this?** Most spam comments contain links to the spammer's website, Their goal, is to increase the number of back-links to their website by publishing them anywhere and everywhere they can. The hope is that the higher number of backlinks, the higher their Google Page Rank will be. In reality, Google views these types of links as low-quality backlinks and they do not help spammers, and instead will sometimes hurt Page Rank. **Why does spam hurt your site?** These spam posts can make your website look less credible, include information that you don't want your readers to see and sometimes even cause problems with your website's SEO. **Controlling**** Spam with a Plugin: **All WordPress sites should utilize some type of anti-spam plugin. There are many different free and paid plug-ins that offer spam protection for your website.  Some of these plugins include [Akismet](https://make.wordpress.org/training/handbook/plugin-lessons/what-is-akismet/), Spam Plugin Lesson 2 and Spam Plugin Lesson 3.
 
 ## Exercises
 
@@ -75,7 +75,7 @@ If you have an email address, I'm sure you have received email spam. Spam, other
 
 Although there are many anti-spam plugins available to control spam on a site, WordPress has a number of built-in tools that can help control comment spam. We will start by looking at these first.
 
-1.  In the WordPress Dashboard, go to Settings>Discussion. Within this page, a number of different options can be turned on or off depending on your requirements.
+1.  In the WordPress Dashboard, go to Settings > Discussion. Within this page a number of different options can be turned on or off depending on your requirements.
 
 * Allow link notifications from other blogs (pingbacks and trackbacks) on new articles - Pingbacks and Trackbacks are basically a method to notify other relevant blogs of new content that their readers may also be interested in. Although this can lead to your site generating some additional traffic, it does also lead to the possibility of a lot more spam. If you are not concerned about Pingbacks or Trackbacks then you will be quite safe unchecking this.
 
@@ -99,7 +99,7 @@ Although there are many anti-spam plugins available to control spam on a site, W
 
 **Managaing Spam using the Akismet Anti-Spam Plugin**
 
-Akismet Anti-Spam is a popular WordPress plugin used on millions of websites. In order to use the Akismet plugin, you will first need sign up for the Akismet service using a WordPress.com account which in turn will provide you with an API key. It would be advisable to do this before installing and setting up the plugin. 
+Akismet Anti-Spam is a popular WordPress plugin used on millions of websites. In order to use the Akisment plugin, you will first need sign up for the Akisment service using a WordPress.com account which in turn will provide you with an API key. It would be advisable to do this before installing and settin up the plugin. 
 
 **Generate an API key••
 
@@ -150,10 +150,10 @@ NOTE - the Akismet Personal option is strictly not for commercial use. If you wi
 
 1.  Install an anti-spam plugin
 2.  Call your host and ask for the "no more spam" package
-3.  Make adjustments to the Settings>Disscussions panel
+3.  Make adjustments to the Settings > Discussion panel
 4.  All of the above
 
-**Answer:** 1. Install an anti-spam plugin & 3. Make adjustments to the Settings>Disscussions panel 
+**Answer:** 1. Install an anti-spam plugin & 3. Make adjustments to the Settings > Discussion panel 
 
 **An Akismet/Wordpress.com account is required to set up the Akismet plugin on your site**
 
