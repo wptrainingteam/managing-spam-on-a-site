@@ -101,7 +101,7 @@ Although there are many anti-spam plugins available to control spam on a site, W
 
 Akismet Anti-Spam is a popular WordPress plugin used on millions of websites. In order to use the Akisment plugin, you will first need sign up for the Akisment service using a WordPress.com account which in turn will provide you with an API key. It would be advisable to do this before installing and settin up the plugin. 
 
-**Generate an API key••
+**Generate an API key**
 
 1. Visit the URL https://akismet.com/wordpress/. You will be presented with a number of different plans, however, for the purposes of this tutorial, we will just be using the Personal option which will provide the necessary spam protection that we are after.
 
@@ -109,7 +109,7 @@ NOTE - the Akismet Personal option is strictly not for commercial use. If you wi
 
 2. Complete the steps as requested on the Akismet site. You will then be provided with an API key, this is a unique key associated to your account which will allow the Akismet plugin which we are about to install to successfully connect to your account.
 
-**Installing and setting up the Akismet plugin.
+**Installing and setting up the Akismet plugin.**
 
 1. Install the Akismet Anti-Spam Plugin from the WordPress repository. Activate the plugin once installed. 
 2. Select Settings in order to access the below screen.
